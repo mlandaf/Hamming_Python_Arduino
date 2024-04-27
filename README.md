@@ -1,11 +1,7 @@
 # Hamming_Python_Arduino
 Trabajo para el curso de Comunicacion de Datos en el ciclo 2023-1 en la Universidad de Lima.
 
-Trabajo realizado en conjunto por:
-Marcelo Landa
-Giancarlo Pinedo
-Sebastian Garcia
-Alessander Mejia
+Trabajo realizado por: Sebastian Garcia, Marcelo Landa, Alessander Mejia, y Giancarlo Pinedo
 
 Este proyecto consiste en la implementación del código Hamming para la detección y corrección de errores en la transmisión de bits, utilizando Python.
 
